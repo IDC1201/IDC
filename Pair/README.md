@@ -1,4 +1,4 @@
-# TerraSwap Pair
+# IDC Pair
 
 ## Handlers
 
