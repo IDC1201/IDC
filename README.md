@@ -1,0 +1,2 @@
+# IDC
+Interchain dao coin
