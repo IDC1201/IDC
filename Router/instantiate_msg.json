@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "InstantiateMsg",
+  "type": "object",
+  "required": [
+    "astroport_factory",
+    "loop_factory",
+    "terraswap_factory"
+  ],
+  "properties": {
+    "astroport_factory": {
+      "type": "string"
+    },
+    "loop_factory": {
+      "type": "string"
+    },
+    "terraswap_factory": {
+      "type": "string"
+    }
+  }
+}
