@@ -75,10 +75,14 @@ EXAMPLE ON TERRA STATION
 MAKE IN SIMPLE :
 
 
-1.Open Terra station wallet 
+1.Open Terra station wallet
+
 2.Contract
+
 3.search Pair contract address
+
 4.Execute
+
 5.in Msg:
 
 ```json
