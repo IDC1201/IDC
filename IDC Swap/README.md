@@ -70,3 +70,30 @@ Enter the base64 encoded value for msg of the JSON:
 }
 ```
 After then, you may proceed as the above
+
+EXAMPLE ON TERRA STATION
+MAKE IN SIMPLE :
+
+
+1.Open Terra station wallet 
+2.Contract
+3.search Pair contract address
+4.Execute
+5.in Msg:
+
+```json
+{
+  "swap": {
+    "offer_asset": {
+      "info": {
+        "native_token": {
+          "denom": "uusd"
+        }
+      },
+      "amount": "10000000"
+    },
+    "to": ""
+  }
+}
+```
+Amount USTC :10 
