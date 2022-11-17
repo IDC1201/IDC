@@ -101,3 +101,9 @@ MAKE IN SIMPLE :
 }
 ```
 Amount USTC :10 
+
+swap.offer_asset represents your source asset. It is mandatory to acknowledge the decimal of the token setting when entering the value of swap.offer_asset.amount for an accurate transaction you want. For instance, the decimal of LUNA is 6, and it implies the value 10 of swap.offer_asset.amount expresses ‘10 x 10^-6in the actual amount. That means you should multiply with the matching value,10^(decimal)`.
+
+swap.to is the destination token address. You don’t need to enter the amount to swap into since Terraswap calculates the price algorithmically.
+
+After filling them out, you may choose to change it into an inline string (not necessary if you can make it with multiline):
