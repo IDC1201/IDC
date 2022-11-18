@@ -3,6 +3,6 @@
 
 Swap IDC running on Colombus-5 Terra Classic Network
 
-'''json
+```json
 www.interchaindaocoin.com
-'''
+```
