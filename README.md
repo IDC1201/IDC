@@ -1,7 +1,7 @@
 # IDC Doc
 
 
-Swap IDC running on Colombus-5 Terra Classic Network
+Swap IDC running on Columbus-5 Terra Classic Network
 
 ```
 www.interchaindaocoin.com
