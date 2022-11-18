@@ -1,3 +1,3 @@
-# IDC Document 
+# IDC Doc
 Interchain dao coin
 www.interchaindaocoin.com
