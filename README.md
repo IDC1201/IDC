@@ -86,8 +86,10 @@ Enter the base64 encoded value for msg of the JSON:
 ```
 After then, you may proceed as the above
 
+FOR Devoloper  :
+
+
 EXAMPLE ON TERRA STATION
-MAKE IN SIMPLE :
 
 
 1.Open Terra station wallet
