@@ -1,4 +1,4 @@
-# IDC Doc
+# IDC Classic & IDC Mainnet Doc
 
 
 Swap IDC running on Columbus-5 Terra Classic Network
