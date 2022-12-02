@@ -2,7 +2,8 @@
 IDC Mainnet 
 
 ```
-terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg
+https://finder.terra.money/mainnet/address/terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg
+
 ```
 
 
