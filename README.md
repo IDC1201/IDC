@@ -1,7 +1,18 @@
 # IDC Classic & IDC Mainnet Doc
+IDC Mainnet 
+
+```
+terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg
+```
 
 
-Swap IDC running on Columbus-5 Terra Classic Network
+STAKING IDC Mainnet
+
+```
+terra195zzdqpan255lgatrufl6rt7szuc3wggu52urmul79mzd7d85gjq8ys7zr
+```
+
+Swap IDC Classic running on Columbus-5 Terra Classic Network
 
 ```
 www.interchaindaocoin.com
