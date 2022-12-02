@@ -12,13 +12,13 @@ STAKING IDC Mainnet
 terra195zzdqpan255lgatrufl6rt7szuc3wggu52urmul79mzd7d85gjq8ys7zr
 ```
 
-Swap IDC Classic running on Columbus-5 Terra Classic Network
+Swap IDC Classic & IDC Mainnet 
 
 ```
 www.interchaindaocoin.com
 ```
 
-IDC info finder smart contract
+IDC Classic info finder smart contract
 
 ```
 https://finder.terra.money/classic/address/terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf
